@@ -1,3 +1,5 @@
+ **Accomplished: December 2**
+
 # Java Activity Solutions
 
 This repository contains solutions for 20 Java problems focused on:
