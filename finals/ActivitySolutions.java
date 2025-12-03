@@ -190,7 +190,7 @@ public class ActivitySolutions {
 
 
         // 19. Match student names to their grades
-        String[] names = {"Ana", "Ben", "Chris"};
+        String[] names = {"Anthony", "tony", "countian"};
         int[] gradeList = {90, 85, 88};
 
         for (int i = 0; i < names.length; i++) {
@@ -209,3 +209,4 @@ public class ActivitySolutions {
         sc.close();
     }
 }
+
